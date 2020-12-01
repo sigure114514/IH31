@@ -12,14 +12,10 @@
     <script></script>
 </head>
 <body>
-<header>
-    <h1><img src="tpl_img/HALMOTOR.png" width="200px" height="auto"></h1>
-    <nav>
-        <ul>
-            <li><a href="">登録</a></li>
-            <li><a href="">案件</a></li>
-            <li><a href="">変更・管理</a></li>
-        </ul>
-    </nav>
-    <p><a href="#">ログアウト</a></p>
-</header><!-- header -->
+<article class="header">
+
+<h1>header</h1>
+
+
+
+</article><!-- header -->
