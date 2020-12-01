@@ -1,0 +1,76 @@
+header {
+    height: 80px;
+    width: 100%;
+    background-color: #EAEAEA;
+    box-shadow: 0 10px 25px 0 #82828280;
+}
+body{
+    background-origin: #F7F7F7;
+}
+
+header img {
+    width: 160px;
+    min-width: 160px;
+}
+
+header ul {
+    display: flex;
+    
+}
+
+header li, p {
+    position: relative;
+    font-size: 1.3rem;
+    color: #626262;
+    width: 250px;
+    height: 80px;
+    /* border: solid 1px black; */
+    text-align: center;
+}
+
+#header-width {
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logOut{
+    background-color: #767676;
+    color:#FFF;
+    
+}
+#logOut a{
+    width: 250px;
+    height: 80px;
+    padding-top: 28px;
+    display: block;
+}
+
+#logOut:hover{
+    opacity: 0.9;
+}
+
+ul li a{
+    width: 250px;
+    height: 80px;
+    padding-top: 28px;
+    display: block;
+}
+.mNav a:hover{
+    background-color: #42A382;
+    color: white;
+    
+}
+header a {
+    
+    position: absolute;
+    top: 50%;
+    /*親要素を起点に上から50%*/
+    left: 50%;
+    /*親要素を起点に左から50%*/
+    transform: translateY(-50%) translateX(-50%);
+    /*要素の大きさの半分ずつを戻す*/
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    
+}

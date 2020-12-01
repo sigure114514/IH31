@@ -1,0 +1,34 @@
+header{
+    height: 60px;
+    width: 100%;
+    background-color: #292727;
+    
+}
+
+header img{
+    width:20%;
+    min-width: 200px;
+    
+}
+
+header p{
+    padding-top: 20px;
+}
+
+header ul{
+    display: flex;
+    
+
+}
+
+header li:first-child {
+    width: 200px;
+    background-color: aquamarine;
+}
+
+#header-width{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
