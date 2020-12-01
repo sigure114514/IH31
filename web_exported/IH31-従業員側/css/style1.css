@@ -1,0 +1,1370 @@
+.mediaViewInfo {
+    --web-view-name: 1920 Web – 1;
+    --web-view-id: ID1920_Web__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: ID1920_Web__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#ID1920_Web__1 {
+    position: absolute;
+    width: 1920px;
+    height: 1077px;
+    background-color: rgba(247,247,247,1);
+    overflow: hidden;
+    --web-view-name: 1920 Web – 1;
+    --web-view-id: ID1920_Web__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#_2 {
+    fill: rgba(234,234,234,1);
+}
+._2 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 1938px;
+    height: 97px;
+    left: 0px;
+    top: 0px;
+}
+#_3 {
+    fill: rgba(64,154,123,1);
+}
+._3 {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 79px;
+    left: 250px;
+    top: 0px;
+}
+#_4 {
+    fill: rgba(234,234,234,1);
+}
+._4 {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 79px;
+    left: 501px;
+    top: 0px;
+}
+#_5 {
+    fill: rgba(234,234,234,1);
+}
+._5 {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 79px;
+    left: 752px;
+    top: 0px;
+}
+#_6 {
+    fill: rgba(255,255,255,1);
+}
+._6 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 999px;
+    left: 0px;
+    top: 79px;
+}
+#_cc {
+    left: 351px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#_w {
+    left: 577px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(98,98,98,1);
+}
+#_ce {
+    left: 815px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 126px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(98,98,98,1);
+}
+#HALMOTOR_ce {
+    position: absolute;
+    width: 155px;
+    height: 18px;
+    left: 48px;
+    top: 31px;
+    overflow: visible;
+}
+#_7 {
+    fill: rgba(87,87,87,1);
+}
+._7 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 79px;
+}
+#_cg {
+    left: 38px;
+    top: 101px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#_8 {
+    fill: rgba(131,211,183,1);
+}
+._8 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 142px;
+}
+#_ci {
+    left: 38px;
+    top: 164px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#_9 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._9 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 205px;
+}
+#_bb {
+    left: 38px;
+    top: 227px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_1 {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 205px;
+    overflow: visible;
+}
+#_10 {
+    fill: rgba(255,255,255,1);
+}
+._10 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_bc {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_2_ {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 268px;
+    overflow: visible;
+}
+#_10_ {
+    fill: rgba(255,255,255,1);
+}
+._10_ {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_bd {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_3_bb {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 331px;
+    overflow: visible;
+}
+#_10_bc {
+    fill: rgba(255,255,255,1);
+}
+._10_bc {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_be {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_4_be {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 394px;
+    overflow: visible;
+}
+#_10_bf {
+    fill: rgba(255,255,255,1);
+}
+._10_bf {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_bg {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_5_bh {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 457px;
+    overflow: visible;
+}
+#_10_bi {
+    fill: rgba(255,255,255,1);
+}
+._10_bi {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_bj {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 161px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_11 {
+    fill: rgba(131,211,183,1);
+}
+._11 {
+    position: absolute;
+    overflow: visible;
+    width: 5px;
+    height: 32px;
+    left: 340px;
+    top: 164px;
+}
+#_cx {
+    left: 356px;
+    top: 170px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_12 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._12 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 1210px;
+    height: 328px;
+    left: 340px;
+    top: 227px;
+}
+#_13 {
+    fill: rgba(234,234,234,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._13 {
+    position: absolute;
+    overflow: visible;
+    width: 254px;
+    height: 310px;
+    left: 340px;
+    top: 227px;
+}
+#_1_bo {
+    position: absolute;
+    width: 1192px;
+    height: 310px;
+    left: 340px;
+    top: 227px;
+    overflow: hidden;
+}
+#_1_bo_0 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#_14_c {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_c {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_1_bo_1 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 103px;
+    overflow: visible;
+}
+#_14_da {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_da {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_1_bo_2 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 206px;
+    overflow: visible;
+}
+#_14_db {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_db {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_1_bo_3 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 309px;
+    overflow: visible;
+}
+#_14_dc {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_dc {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_c {
+    left: 436px;
+    top: 268px;
+    position: absolute;
+    overflow: visible;
+    width: 41px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_1_by {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._1_by {
+    overflow: visible;
+    position: absolute;
+    width: 445px;
+    height: 32px;
+    left: 629px;
+    top: 262px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#_db {
+    left: 406px;
+    top: 374px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_dc {
+    left: 416px;
+    top: 480px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_16 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._16 {
+    position: absolute;
+    overflow: visible;
+    width: 445px;
+    height: 32px;
+    left: 629px;
+    top: 366px;
+}
+#_17 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._17 {
+    position: absolute;
+    overflow: visible;
+    width: 445px;
+    height: 32px;
+    left: 629px;
+    top: 470px;
+}
+#_df {
+    left: 1184px;
+    top: 195px;
+    position: absolute;
+    overflow: visible;
+    width: 353px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_18 {
+    fill: rgba(66,201,154,1);
+}
+._18 {
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    height: 71px;
+    left: 789px;
+    top: 587px;
+}
+#_dh {
+    left: 863px;
+    top: 613px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#_19 {
+    fill: rgba(234,234,234,1);
+}
+._19 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 1938px;
+    height: 97px;
+    left: 0px;
+    top: 0px;
+}
+#_20 {
+    fill: rgba(66,163,130,1);
+}
+._20 {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 79px;
+    left: 250px;
+    top: 0px;
+}
+#_21 {
+    fill: rgba(234,234,234,1);
+}
+._21 {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 79px;
+    left: 501px;
+    top: 0px;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: 1920_Web___2.html;
+    cursor: pointer;
+}
+#_22 {
+    fill: rgba(234,234,234,1);
+}
+._22 {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 79px;
+    left: 752px;
+    top: 0px;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: 1920_Web___3.html;
+    cursor: pointer;
+}
+#_23 {
+    fill: rgba(255,255,255,1);
+}
+._23 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 999px;
+    left: 0px;
+    top: 79px;
+}
+#_cc {
+    left: 351px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#_cd {
+    left: 602px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(98,98,98,1);
+}
+#_ce {
+    left: 815px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 126px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(98,98,98,1);
+}
+#HALMOTOR_ce {
+    position: absolute;
+    width: 155px;
+    height: 18px;
+    left: 48px;
+    top: 31px;
+    overflow: visible;
+}
+#_24 {
+    fill: rgba(87,87,87,1);
+}
+._24 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 79px;
+}
+#_cg {
+    left: 38px;
+    top: 101px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#_25 {
+    fill: rgba(131,211,183,1);
+}
+._25 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 142px;
+}
+#_ci {
+    left: 38px;
+    top: 164px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#_26 {
+    fill: transparent;
+}
+._26 {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 205px;
+}
+#_7_ck {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 268px;
+    overflow: visible;
+}
+#_10_cl {
+    fill: rgba(255,255,255,1);
+}
+._10_cl {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_cm {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_8_cn {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 331px;
+    overflow: visible;
+}
+#_10_co {
+    fill: rgba(255,255,255,1);
+}
+._10_co {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_cp {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_9_cq {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 394px;
+    overflow: visible;
+}
+#_10_cr {
+    fill: rgba(255,255,255,1);
+}
+._10_cr {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_cs {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_10_ct {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 457px;
+    overflow: visible;
+}
+#_10_cu {
+    fill: rgba(255,255,255,1);
+}
+._10_cu {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_cv {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 161px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_27 {
+    fill: rgba(131,211,183,1);
+}
+._27 {
+    position: absolute;
+    overflow: visible;
+    width: 5px;
+    height: 32px;
+    left: 340px;
+    top: 164px;
+}
+#_cx {
+    left: 356px;
+    top: 170px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_28 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._28 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 1210px;
+    height: 328px;
+    left: 340px;
+    top: 227px;
+}
+#_29 {
+    fill: rgba(234,234,234,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._29 {
+    position: absolute;
+    overflow: visible;
+    width: 254px;
+    height: 310px;
+    left: 340px;
+    top: 227px;
+}
+#_2_c {
+    position: absolute;
+    width: 1192px;
+    height: 310px;
+    left: 340px;
+    top: 227px;
+    overflow: hidden;
+}
+#_2_c_0 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#_14_c {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_c {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_2_c_1 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 103px;
+    overflow: visible;
+}
+#_14_da {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_da {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_2_c_2 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 206px;
+    overflow: visible;
+}
+#_14_db {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_db {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_2_c_3 {
+    position: absolute;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 309px;
+    overflow: visible;
+}
+#_14_dc {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._14_dc {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
+#_c {
+    left: 436px;
+    top: 268px;
+    position: absolute;
+    overflow: visible;
+    width: 41px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_2_da {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._2_da {
+    overflow: visible;
+    position: absolute;
+    width: 445px;
+    height: 32px;
+    left: 629px;
+    top: 262px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#_db {
+    left: 406px;
+    top: 374px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_dc {
+    left: 416px;
+    top: 480px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_30 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._30 {
+    position: absolute;
+    overflow: visible;
+    width: 445px;
+    height: 32px;
+    left: 629px;
+    top: 366px;
+}
+#_31 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+._31 {
+    position: absolute;
+    overflow: visible;
+    width: 445px;
+    height: 32px;
+    left: 629px;
+    top: 470px;
+}
+#_df {
+    left: 1184px;
+    top: 195px;
+    position: absolute;
+    overflow: visible;
+    width: 353px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(87,87,87,1);
+}
+#_32 {
+    fill: rgba(66,163,130,1);
+}
+._32 {
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    height: 71px;
+    left: 789px;
+    top: 587px;
+}
+#_dh {
+    left: 863px;
+    top: 613px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+#_33 {
+    fill: rgba(118,118,118,1);
+}
+._33 {
+    position: absolute;
+    overflow: visible;
+    width: 251px;
+    height: 79px;
+    left: 1669px;
+    top: 0px;
+}
+#_dj {
+    left: 1732px;
+    top: 27px;
+    position: absolute;
+    overflow: visible;
+    width: 126px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#_11_dk {
+    position: absolute;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 205px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: 1920_Web___6.html;
+    cursor: pointer;
+}
+#_10_dl {
+    fill: rgba(255,255,255,1);
+}
+._10_dl {
+    position: absolute;
+    overflow: visible;
+    width: 250px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#_dm {
+    left: 38px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 81px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Hiragino Kaku Gothic ProN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(110,110,110,1);
+}
+#_34 {
+    fill: rgba(66,163,130,1);
+}
+._34 {
+    position: absolute;
+    overflow: visible;
+    width: 1192px;
+    height: 6px;
+    left: 340px;
+    top: 227px;
+}
