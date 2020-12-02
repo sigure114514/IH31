@@ -1,3 +1,4 @@
-<article class="main">
-<h1>main</h1>
-</article><!-- main -->
+<main>
+<p>メイン画面</p>
+</main>
+<!-- main ここまで -->

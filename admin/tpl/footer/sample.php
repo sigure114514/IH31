@@ -1,9 +1,7 @@
-<article class="footer">
-<h1>footer</h1>
-
-
-
-</article><!-- footer -->
+<footer>
+<p>フッター画面</p>
+</footer>
+<!-- footer ここまで -->
 <script>
 </script>
 </body>
